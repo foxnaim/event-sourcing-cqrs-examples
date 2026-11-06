@@ -1,3 +1,8 @@
+> **foxnaim** · Примеры реализации Event Sourcing и CQRS на практике
+>
+> Готовая основа под клиентский проект. Стек: Java.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 [![Build](https://github.com/andreschaffer/event-sourcing-cqrs-examples/actions/workflows/build.yml/badge.svg)](https://github.com/andreschaffer/event-sourcing-cqrs-examples/actions/workflows/build.yml)
 [![Code Coverage](https://qlty.sh/gh/andreschaffer/projects/event-sourcing-cqrs-examples/coverage.svg)](https://qlty.sh/gh/andreschaffer/projects/event-sourcing-cqrs-examples)
 [![Maintainability](https://qlty.sh/gh/andreschaffer/projects/event-sourcing-cqrs-examples/maintainability.svg)](https://qlty.sh/gh/andreschaffer/projects/event-sourcing-cqrs-examples)
